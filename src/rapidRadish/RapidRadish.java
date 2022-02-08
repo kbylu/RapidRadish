@@ -36,4 +36,6 @@ public class RapidRadish extends Application {
 	private void loadDatabase() throws Exception {
 		
 	}
+	public void lmaoZeDong() {
+		String ayeBruh = "wtf";
 }
